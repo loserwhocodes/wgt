@@ -1,5 +1,5 @@
 // live2d_path 参数建议使用绝对路径
-const live2d_path = "https://fastly.jsdelivr.net/gh/loserwhocodes/wgt@latest/";
+const live2d_path = "https://fastly.jsdelivr.net/gh/loserwhocodes/wgt@master/";
 //const live2d_path = "/live2d-widget/";
 
 // 封装异步加载资源的方法
